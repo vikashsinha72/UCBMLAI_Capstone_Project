@@ -39,9 +39,9 @@ Explore deep learning techniques such as LSTM for time series forecasting.
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- https://github.com/vikashsinha72/UCBMLAI_Capstone_Project/blob/main/PredictingAirTicketPricing.ipynb
+- data: https://github.com/vikashsinha72/UCBMLAI_Capstone_Project/blob/main/Cleaned_dataset.csv
+
 
 
 ##### Contact and Further Information
